@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://cdn-143.anonfiles.com/L3S8U8qau8/89aa8be1-1618335710/banner.jpg">
+</p>
 
-![banner](https://cdn-143.anonfiles.com/L3S8U8qau8/89aa8be1-1618335710/banner.jpg)
 
 # Hi there
 My name is Kai and I post stuff ranndomly.
