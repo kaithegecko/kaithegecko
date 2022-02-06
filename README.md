@@ -8,8 +8,8 @@ My name is Kai but most just call me Dopamine and I post stuff ranndomly.
 <p>&nbsp;</p>
 
 # Socials
-Discord: Dopamine#6176
-VRC: MissingDopamine
+Discord Dopamine#6176
+VRChat MissingDopamine
 
 ## About me
 I enjoy programming in tons of different languages, and love to learn new ones.
