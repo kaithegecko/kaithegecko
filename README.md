@@ -7,7 +7,7 @@
 My name is Kai but most just call me Dopamine and I post stuff ranndomly.
 <p>&nbsp;</p>
 
-#Socials [Feel free to add me]
+#Socials
 Discord: Dopamine#6176
 VRC: MissingDopamine
 
