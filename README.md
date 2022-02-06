@@ -4,10 +4,12 @@
 
 
 # Hi there
-My name is Kai and I post stuff ranndomly.
+My name is Kai but most just call me Dopamine and I post stuff ranndomly.
 <p>&nbsp;</p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kaithegecko.kaithegecko)
+#Socials [Feel free to add me]
+Discord: Dopamine#6176
+VRC: MissingDopamine
 
 ## About me
 I enjoy programming in tons of different languages, and love to learn new ones.
